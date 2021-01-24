@@ -1,0 +1,15 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.input {
+  padding: 5px;
+  margin: 10px 10px 10px 0;
+}
+.input:focus {
+  border: 3px solid lightblue;
+  border-radius: 2px;
+  outline: transparent;
+}

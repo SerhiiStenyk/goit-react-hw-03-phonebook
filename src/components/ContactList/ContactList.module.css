@@ -1,0 +1,15 @@
+.list {
+  font-size: 15px;
+}
+.delete {
+  margin: 10px;
+  padding: 3px;
+  background-color: #fff;
+  border: 1px solid gray;
+
+  border-radius: 5px;
+  outline: transparent;
+}
+.delete:hover {
+  background-color: rgb(62, 88, 233);
+}
